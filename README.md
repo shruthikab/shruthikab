@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Shruthika
-- 👀 I’m interested in coding, learning computing, game development
-- 🌱 I’m currently learning python, Java
+- 👋 Hi, I’m Shruthika, a Computer Science student at the University of Washington Allen School.
+- 🌱 I’m interested in coding, learning computing, game development
+
 
 <!---
 shruthikab/shruthikab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
